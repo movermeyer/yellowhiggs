@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-.. image:: https://pypip.in/v/yellowhiggs/badge.png
+.. image:: https://img.shields.io/pypi/v/yellowhiggs.svg
    :target: https://pypi.python.org/pypi/yellowhiggs
-.. image:: https://pypip.in/d/yellowhiggs/badge.png
+.. image:: https://img.shields.io/pypi/dm/yellowhiggs.svg
    :target: https://crate.io/packages/yellowhiggs/
 
 
